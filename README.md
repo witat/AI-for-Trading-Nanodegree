@@ -1,2 +1,2 @@
-# AI-for-Trading-Nanodegree-
+# AI-for-Trading-Nanodegree
 Udacity nanodegree course
