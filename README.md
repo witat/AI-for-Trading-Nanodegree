@@ -39,7 +39,7 @@ In this project, I build your own deep learning model to classify the sentiment 
 In this project, I combine signals on a random forest for enhanced alpha. While implementing this, you'll have to solve the problem of overlapping samples. For the dataset, we'll be using the end of day from Quotemedia and sector data from Sharadar.
 
 ### Project_8 Backtesting 
->[P8 BBacktesting](https://github.com/witat/AI-for-Trading-Nanodegree/tree/master/Project_8%20Backtesting)
+>[P8 Backtesting](https://github.com/witat/AI-for-Trading-Nanodegree/tree/master/Project_8%20Backtesting)
 
 ## Run
 To open a notebook, use:
