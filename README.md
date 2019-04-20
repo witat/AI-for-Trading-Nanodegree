@@ -4,7 +4,7 @@ Coding project for the AI for Trading Nanodegree from Udacity course.
 ## Project
 
 ### Project_1 Trading with Momentum
->[P1_Trading with Momentum](https://github.com/witat/AI-for-Trading-Nanodegree.git/tree/master/Project_1%20Trading%20with%20Momentum)
+>[P1_Trading with Momentum](https://github.com/witat/AI-for-Trading-Nanodegree/tree/master/Project_1%20Trading%20with%20Momentum)
 
 Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
 
