@@ -1,22 +1,25 @@
 # AI-for-Trading-Nanodegree
 Coding project for the AI for Trading Nanodegree from Udacity course.
 
-## Setup
+## Project
 
-You need Python 3.6+, and the packages mentioned in `requirements.txt`. You can install them using:
+### Project_1 Trading with Momentum
+>[P1_Facial_Keypoints](https://github.com/witat/AI-for-Trading-Nanodegree.git/tree/master/Project_1 Trading with Momentum)
 
-```bash
-pip install -r requirements.txt
-```
+Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
+
+
+### Automatic Image Captioning
+>[P2_Image_captioning](https://github.com/vmelan/CVND-udacity/tree/master/P2_Image_Captioning)
+
+Combine CNN and RNN knowledge to build a deep learning model that produces captions given an imput image.
+
+### Landmark Detection & Tracking (SLAM)
+>[P3_SLAM](https://github.com/vmelan/CVND-udacity/tree/master/P3_SLAM)
+
+Implement Graph SLAM (Simultaneous Localization and Mapping) for a 2 dimensional world
 
 ## Run
-
-To run any script file, use:
-
-```bash
-python <script.py>
-```
-
 To open a notebook, use:
 
 ```bash
